@@ -4,7 +4,6 @@ This project contains the exploring a movie dataset and visualizing key trends i
 
 ## Files
 - `eda_movies.ipynb` - Main exploratory data analysis notebook
-- `movies_dataset.csv` - Movie dataset used in the notebook
 
 ## What this notebook covers
 - Loading and inspecting the dataset
